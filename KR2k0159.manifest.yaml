@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2k0159/v1
 canonical_location: https://kanripo.org/bkk/KR2k0159/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大魏諸州記一卷
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2k0159_001.yaml, hash: 'sha256:c97171c11fa9b7665406993202dcd96fa0f062d68251b7bf1c5a6b10913ceaff'}
+  - {seq: 1, filename: KR2k0159_001.yaml, hash: 'sha256:1adf058097364d0e81162ee0091161b3a2f9b16d61ca928da17db2732b45cc3d'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2k0159_001.markers.yaml, hash: 'sha256:13b8ed2334c0d73fec70952c652096d8498cce0403ea3c0868540b847a9fdaaa'}
+  - {seq: 1, role: markers, filename: assets/KR2k0159_001.markers.yaml, hash: 'sha256:eb9a8151e37c53af6f4a3e76b90408b4cef52e0c5f8a3d8cc14df4951d1af470'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 大魏諸州記
   type: section
   level: 1
-hash: sha256:4c0f181711b870a38a002a076f21bf502279a3c5a8639acf73f8a3f47b60fe44
+hash: sha256:8127e5bfa18eb9d6b6fe524b9b49b416136b94ef6610434998d368b5f9231a68
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
